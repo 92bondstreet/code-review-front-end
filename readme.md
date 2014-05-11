@@ -65,7 +65,7 @@ There is a correlation between complexity and the likely bugs rate.
 Basically, the more complicated it is, the more simplified.
 
 
-### 4. Maintenable
+### 4. Maintainability
 
 The reviewer ensures that another developer can change the code in a small time. 
 
