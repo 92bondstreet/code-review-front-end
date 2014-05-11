@@ -85,3 +85,21 @@ This also happens in loops, array access, DOM access...
 jsPerf is an excellent online tool that allows you to test the performance of a piece of code on different browsers : [http://jsperf.com/](http://jsperf.com/)
 
 Example : [Comparing the performance difference of varied jQuery 1.7 selectors ?](http://jsperf.com/id-vs-class-vs-tag-selectors/2)
+
+## Deep diving
+
+* CodeShip Code Review: [http://blog.codeship.io/2013/08/22/the-codeship-workflow-part-2-pull-requests-and-code-review.html](http://blog.codeship.io/2013/08/22/the-codeship-workflow-part-2-pull-requests-and-code-review.html)
+
+* Code Review with Microsoft tools: [http://msdn.microsoft.com/en-us/library/hh474795.aspx#code_review_request](http://msdn.microsoft.com/en-us/library/hh474795.aspx#code_review_request)
+
+* Checklist example: [http://courses.cs.washington.edu/courses/cse403/12wi/sections/12wi_code_review_checklist.pdf](http://courses.cs.washington.edu/courses/cse403/12wi/sections/12wi_code_review_checklist.pdf)
+
+* Hadoop Code Review: [https://wiki.apache.org/hadoop/CodeReviewChecklist](https://wiki.apache.org/hadoop/CodeReviewChecklist)
+
+## Authors and contributors
+
+### Current
+* [Yassine Azzout](http://yass.io) (Creator)
+
+### License
+[MIT license](http://www.opensource.org/licenses/Mit)
